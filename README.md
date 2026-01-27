@@ -1,12 +1,12 @@
 # Find Jobs Website
 
-## Overview
+## 🔍 Overview
 Find Jobs is a modern web application built to provide an easy and comfortable experience for users to browse and manage job-related data.  
 The project focuses on clean UI, performance optimization, and modern React-based architecture.
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 
 - **React.js** as the React framework
@@ -52,7 +52,7 @@ The project focuses on clean UI, performance optimization, and modern React-base
     # or
     yarn dev
     ```
-Versions in the Application
+📦 Versions in the Application
 ```
 ├── @types/react-dom@18.2.14
 ├── @types/react@18.2.33
