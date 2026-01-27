@@ -114,3 +114,10 @@ $ npm install --save react-toastify
 
 [![video](https://github.com/user-attachments/assets/5fa360be-bbd6-44eb-9844-21426c518a88)](https://github.com/user-attachments/assets/26f4f707-53fb-4e40-90a9-9cd6d4ba52d5)
 
+
+---
+# An important note 🔔
+
+### I use Json-Server to handle the data (Add-Delete-Update) *just to learn* So when you see the demo you will not find the data but if you import the project and entered the command 
+``` npm run server ```
+### you will see the fata which stored in *jos.json*
