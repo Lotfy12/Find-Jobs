@@ -120,4 +120,4 @@ $ npm install --save react-toastify
 
 ### I use Json-Server to handle the data (Add-Delete-Update) *just to learn* So when you see the demo you will not find the data but if you import the project and entered the command 
 ``` npm run server ```
-### you will see the fata which stored in *jos.json*
+### you will see the fata which stored in *jobs.json*
