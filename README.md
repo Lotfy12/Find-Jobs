@@ -9,12 +9,12 @@ The project focuses on clean UI, performance optimization, and modern React-base
 ## 🛠️ Technologies Used
 
 
-- **React.js** as the React framework
+- **React.js** is the React framework
 - **Tailwind CSS** for styling
 - **React Toastify** for notification
 - **Heroicons** for icons
 - **Spinner**  libraries for making a nice loading
-- **React Router** for navigate between pagese
+- **React Router** for navigating between pages
 ---
 
 ## ✨ Features
@@ -118,6 +118,8 @@ $ npm install --save react-toastify
 ---
 # An important note 🔔
 
-### I use Json-Server to handle the data (Add-Delete-Update) *just to learn* So when you see the demo you will not find the data but if you import the project and entered the command 
+I use Json-Server to handle the data (Add-Delete-Update) *just to learn* So when you see the demo you will not find the data, but if you import the project and enter the command
+
 ``` npm run server ```
-### you will see the fata which stored in *jobs.json*
+
+ You  will see the fata which stored in *jobs.json*
